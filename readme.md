@@ -43,4 +43,9 @@ python manage.py migrate blog
 
 ```
 
-### 3.
+### 3. 웹 연동하기
+```
+# git clone
+
+
+```
