@@ -1,0 +1,56 @@
+a:link {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:visited{
+    color: white;
+  }
+  
+  button {
+    
+    width: 300px;
+    height: 70px;
+    position: absolute;
+    /* overflow: auto; */
+  
+    background: #4D94B9 0% 0% no-repeat padding-box;
+    border-radius: 17px;
+    border-color: #4D94B9;
+  
+    text-align: center;
+    font-variant: Regular;
+    font-family: "Sitka Display";
+    font-size: 27px;  
+    cursor: pointer;
+    margin:10px;
+    transition: 0.8s;
+    text-decoration: none;
+    text-decoration-color: #FFFFFF;
+    
+  }
+  
+  .container{
+    text-align: center;
+    margin-top: 420px;
+    margin-left: 0px;
+    
+  }
+  
+  
+  .btn1:hover{
+    color: #FFFFFF;
+  }
+  
+  
+  body {
+    background-image: url("fin.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    opacity:1;
+    margin: 0;
+    padding: 0;
+    height: 70vh;
+  }
+  
+  

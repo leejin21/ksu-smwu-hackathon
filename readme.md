@@ -31,7 +31,7 @@ python manage.py runserver
 
 ```
 https://tutorial.djangogirls.org/ko/django_start_project/
-## 2. db 만들기
+## 2. db 만들기 X
 ```
 # toy/models.py 파일을 열어서 안에 모든 내용을 삭제한 후 아래 코드를 추가하세요.
 # 추가하기: 이때 우리 디비 어떻게 구성될 지만 나중에 확인하기
@@ -46,6 +46,10 @@ python manage.py migrate blog
 ### 3. 웹 연동하기
 ```
 # git clone
-
+git status
+git add --all .
+git status
+git commit -m "Changed the HTML for the site."
+git push
 
 ```

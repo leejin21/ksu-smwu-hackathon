@@ -1,0 +1,61 @@
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+body{
+    background-image: url("first_page.png");
+    background-repeat: no-repeat;
+
+
+}
+
+a:visited{
+  color: white;
+}
+
+button {
+
+  width: 200px;
+  height: 60px;
+  position: absolute;
+  /* overflow: auto; */
+
+  background: #4D94B9 0% 0% no-repeat padding-box;
+  border-radius: 65px;
+  border-color: #4D94B9;
+
+  text-align: center;
+  font-variant: Regular;
+  font-family: "Sitka Display";
+  font-size: 27px;
+  cursor: pointer;
+  margin:10px;
+  transition: 0.8s;
+  text-decoration: none;
+  text-decoration-color: #FFFFFF;
+
+}
+
+.container{
+  text-align: center;
+  margin-top: 450px;
+  margin-left: -220px;
+
+}
+
+
+.btn1:hover{
+  color: #FFFFFF;
+}
+
+
+body {
+  background-image: url("first_page.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  opacity:1;
+  margin: 0;
+  padding: 0;
+  height:210vh;
+}
